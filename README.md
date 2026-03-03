@@ -1,17 +1,17 @@
 # Hi 👋 I'm Bhanu Prakash Rajanedi
 
-🚀 Full-Stack Developer focused on Backend Engineering  
+🚀 Backend Developer | Full-Stack Developer  
 ☁️ AWS & DevOps Enthusiast building scalable, cloud-ready applications  
 
 ---
 
 ## 💻 Tech Stack
 
+### ⚙️ Backend
+Node.js • Express.js • PHP • RESTful APIs • MVC Architecture • Authentication & Authorization  
+
 ### 🌐 Frontend
 HTML5 • CSS3 • JavaScript (ES6+) • React.js • Bootstrap • Sass • jQuery  
-
-### ⚙️ Backend
-Node.js • Express.js • RESTful APIs • MVC Architecture  
 
 ### ☁️ Cloud & DevOps
 Amazon Web Services (AWS) • Git • GitHub • Docker (Learning) • CI/CD (Learning) • Linux  
@@ -19,8 +19,9 @@ Amazon Web Services (AWS) • Git • GitHub • Docker (Learning) • CI/CD (Le
 ---
 
 ## 📌 What I Do
-- Design and build RESTful APIs using Node.js & Express  
-- Develop responsive and interactive frontend applications  
+- Design and develop secure RESTful APIs using Node.js, Express & PHP  
+- Implement authentication and role-based access control  
+- Build scalable backend services following clean architecture  
 - Deploy and manage applications on AWS  
 - Continuously improve DevOps and cloud practices  
 
